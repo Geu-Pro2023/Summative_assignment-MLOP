@@ -1,6 +1,5 @@
 # 🐾 wildGuard - Animal Detection System
 
-![wildGuard Banner](https://example.com/path-to-your-banner-image.jpg) *(Replace with actual image URL)*
 
 A FastAPI-powered backend for real-time animal classification using deep learning, designed for wildlife monitoring and conservation efforts.
 
