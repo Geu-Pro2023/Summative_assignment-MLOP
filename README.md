@@ -1,4 +1,4 @@
-WildGuard Animal Classification Model
+# WildGuard Animal Classification Model
 
 ## Overview
 WildGuard is a deep learning model that classifies animal species as ENDANGERED or NON-ENDANGERED based on their images. This project aims to assist conservation efforts by automatically identifying endangered species from camera traps or user-submitted photos.
