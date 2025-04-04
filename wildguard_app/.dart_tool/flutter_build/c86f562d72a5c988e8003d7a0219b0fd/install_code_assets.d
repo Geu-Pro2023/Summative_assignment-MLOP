@@ -1,0 +1,1 @@
+ /Users/geuaguto/Desktop/wildguard_project/wildguard_app/.dart_tool/flutter_build/c86f562d72a5c988e8003d7a0219b0fd/native_assets.json: 
