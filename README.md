@@ -46,7 +46,7 @@ wildguard/
 ---
 ## Installation
 
-#### **Backend (FastAPI)**
+### **Backend (FastAPI)**
 
 **1. Navigate to the backend folder:**
 ```
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ```
 uvicorn app.main:app --reload
 ```
-#### Frontend (Flutter)
+### Frontend (Flutter)
 ---
 1. Install Flutter SDK: flutter.dev/docs/get-started/install
 2. Navigate to the frontend folder:
