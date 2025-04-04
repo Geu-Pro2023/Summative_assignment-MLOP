@@ -1,8 +1,8 @@
 WildGuard Animal Classification Model
----
+
 ## Overview
 WildGuard is a deep learning model that classifies animal species as ENDANGERED or NON-ENDANGERED based on their images. This project aims to assist conservation efforts by automatically identifying endangered species from camera traps or user-submitted photos.
----
+
 
 ##  Features
 ---
@@ -76,13 +76,13 @@ flutter pub get
 flutter run
 ```
 
-### Prerequisites
+## Prerequisites
 - Python 3.9+
 - TensorFlow 2.x
 - OpenCV
 ---
 
-### Installation
+## Installation
 ```bash
 git clone https://github.com/your-username/wildGuard-backend.git
 cd wildGuard-backend/backend
@@ -95,7 +95,7 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
- ###  Backend Deployment (Hosted on Render)
+ ##  Backend Deployment (Hosted on Render)
  ---
 **Live API Base URL:**
  ```
@@ -106,7 +106,7 @@ Access Swagger UI directly:
  ```
 👉 https://wildguard-backend.onrender.com/docs
  ```
- ### Mobile App (APK) Installation
+ ## Mobile App (APK) Installation
 ##### **Option 1: Download Pre-built APK**
 1. Get the latest wildguard.apk from our releases:
 ```
@@ -150,10 +150,10 @@ frontend/build/app/outputs/flutter-apk/app-release.apk # Find the APK here
 `a1b2c3...` *(replace with actual checksum)*
 
  ---
-### Video Presentation
+## Video Presentation
 Watch the walkthrough here: https://youtu.be/FTnQl9zr-8U
 
-### Author
+## Author
 Built by **Geu Aguto**
 For an academic assignment involving ML deployment, mobile app integration, and model lifecycle management.
 
