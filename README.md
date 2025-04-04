@@ -150,6 +150,38 @@ frontend/build/app/outputs/flutter-apk/app-release.apk # Find the APK here
 `a1b2c3...` *(replace with actual checksum)*
 
  ---
+
+ ## 📱 WildGuard App Screens
+ ---
+<div align="center">
+  <h3>End-to-End Wildlife Conservation Interface</h3>
+  
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin: 20px 0;">
+    <div style="width: 32%; min-width: 300px; margin-bottom: 20px;">
+      <img src="prediction_screen.png" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Prediction Screen">
+      <p style="font-weight: 600; margin-top: 8px;">① Instant Species Analysis</p>
+      <small>AI-powered endangered status detection</small>
+    </div>
+    
+    <div style="width: 32%; min-width: 300px; margin-bottom: 20px;">
+      <img src="retraining_screen.png" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Retraining Screen">
+      <p style="font-weight: 600; margin-top: 8px;">② Model Retraining</p>
+      <small>Continuous learning with new conservation data</small>
+    </div>
+    
+    <div style="width: 32%; min-width: 300px; margin-bottom: 20px;">
+      <img src="visualization_screen.png" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Analytics Screen">
+      <p style="font-weight: 600; margin-top: 8px;">③ Conservation Analytics</p>
+      <small>Geospatial threat visualization</small>
+    </div>
+  </div>
+
+  <p align="center" style="font-style: italic; color: #666;">
+    Screenshots from WildGuard v1.0 • Android/iOS • 2024 Release
+  </p>
+</div>
+---
+
 ## Video Presentation
 Watch the walkthrough here: https://youtu.be/FTnQl9zr-8U
 
