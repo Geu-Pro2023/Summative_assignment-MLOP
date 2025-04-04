@@ -149,9 +149,9 @@ frontend/build/app/outputs/flutter-apk/app-release.apk # Find the APK here
 **Checksum (SHA-256):**  
 `a1b2c3...` *(replace with actual checksum)*
 
- ---
+---
 
- ## 📱 WildGuard App Screens
+## 📱 WildGuard App Screens
 
 <div align="center">
   <h3>End-to-End Wildlife Conservation Interface</h3>
@@ -159,30 +159,24 @@ frontend/build/app/outputs/flutter-apk/app-release.apk # Find the APK here
   <table>
     <tr>
       <td align="center" style="width:33%">
-        <img src="prediction_screen.png" style="border-radius:10px;width:95%;max-width:300px;box-shadow:0 4px 8px rgba(0,0,0,0.1)">
+        <img src="prediction_screen.png" style="border-radius:10px;width:100%;max-width:300px;height:auto;aspect-ratio:1;object-fit:contain;box-shadow:0 4px 8px rgba(0,0,0,0.1)">
         <br>
         <b>① Instant Species Analysis</b>
-        <br>
-        <small>AI-powered endangered status detection</small>
       </td>
       <td align="center" style="width:33%">
-        <img src="retraining_screen.png" style="border-radius:10px;width:95%;max-width:300px;box-shadow:0 4px 8px rgba(0,0,0,0.1)">
+        <img src="retraining_screen.png" style="border-radius:10px;width:100%;max-width:300px;height:auto;aspect-ratio:1;object-fit:contain;box-shadow:0 4px 8px rgba(0,0,0,0.1)">
         <br>
         <b>② Model Retraining</b>
-        <br>
-        <small>Continuous learning with new data</small>
       </td>
       <td align="center" style="width:33%">
-        <img src="visualization_screen.png" style="border-radius:10px;width:95%;max-width:300px;box-shadow:0 4px 8px rgba(0,0,0,0.1)">
+        <img src="visualization_screen.png" style="border-radius:10px;width:100%;max-width:300px;height:auto;aspect-ratio:1;object-fit:contain;box-shadow:0 4px 8px rgba(0,0,0,0.1)">
         <br>
         <b>③ Conservation Analytics</b>
-        <br>
-        <small>Geospatial threat visualization</small>
       </td>
     </tr>
   </table>
 
-  <p style="font-style:italic;color:#666;margin-top:20px">
+  <p style="font-style:italic;color:#666;margin-top:10px">
     Screenshots from WildGuard v1.0 • Android/iOS • 2024 Release
   </p>
 </div>
