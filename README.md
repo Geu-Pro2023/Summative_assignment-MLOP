@@ -1,17 +1,20 @@
 # WildGuard Animal Classification Model
-
+---
 ## Overview
 WildGuard is a deep learning model that classifies animal species as ENDANGERED or NON-ENDANGERED based on their images. This project aims to assist conservation efforts by automatically identifying endangered species from camera traps or user-submitted photos.
+
 ### Bulk Dataset (1000+ Images)
 Source: https://www.kaggle.com/code/muhammadfaizan65/90-animals-image-classification-efficientnetb3
 
-##  Features
 ---
+##  Features
+
 - **Real-time image classification**
 - **Mobile-friendly interface (Flutter)**
 - **Model retraining capability**
 - **Data live visualization**
 - **Model Image prediction**
+  
 ---
 ## Project Structure
 ```
@@ -157,9 +160,9 @@ frontend/build/app/outputs/flutter-apk/app-release.apk # Find the APK here
 **Checksum (SHA-256):**  
 `a1b2c3...` *(replace with your actual checksum)*
 
-### Alternatively: get the APK on drive
+#### Alternatively:
 
-drive: https://drive.google.com/drive/folders/1SxE4q4SAHQTTMlLRVig3ySnqKaRW8eiy
+Get APK drive: https://drive.google.com/drive/folders/1SxE4q4SAHQTTMlLRVig3ySnqKaRW8eiy
 
 ## 📱 WildGuard App Screens Interface
 
@@ -170,7 +173,7 @@ drive: https://drive.google.com/drive/folders/1SxE4q4SAHQTTMlLRVig3ySnqKaRW8eiy
 ---
 
 ## Usage
-### 1. Prediction
+#### 1. Prediction
 
 To predict whether an animal is endangered or not:
 
@@ -181,7 +184,7 @@ To predict whether an animal is endangered or not:
    - ENDANGERED
    - NON-ENDANGERED
  
-### 2. Retraining the Model
+#### 2. Retraining the Model
 
 Users can improve the model by retraining it with new data:
 
@@ -196,7 +199,7 @@ Users can improve the model by retraining it with new data:
 5. Click "Retrain" to begin the retraining process
 6. Once completed, the app will save the retrained model automatically
 
-### 3. Visualization
+#### 3. Visualization
 
 After retraining the model:
 
