@@ -45,7 +45,7 @@ wildguard/
 │   └── assets/              # Fonts (Poppins), images
 │
 ├── notebook/                # ML pipeline
-│   └── WildGuard_ML_Pipeline.ipynb  # Data prep, training, evaluation
+│   └── Geu_Aguto_Animal__Classifcation_MLOP_Summative_Assignment.ipynb  # Data prep, training, evaluation
 └── README.md
 ```
 ---
@@ -95,7 +95,7 @@ flutter run
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/wildGuard-backend.git
+git clone https://github.com/your-username/Summative_assignment-MLOP.git
 cd wildGuard-backend/backend
 
 # Create a virtual environment
@@ -110,12 +110,12 @@ pip install -r requirements.txt
  ---
 **Live API Base URL:**
  ```
-🔗 https://wildguard-backend.onrender.com
+https://wildguard-api.onrender.com
 ```
 **Interactive API Documentation**
 Access Swagger UI directly:
  ```
-👉 https://wildguard-backend.onrender.com/docs
+ https://wildguard-api.onrender.com/api-docs
  ```
  ## Mobile App (APK) Installation
 ##### **Option 1: Download Pre-built APK**
@@ -213,7 +213,7 @@ After retraining the model:
 ---
 
 ## Video Presentation
-Watch the walkthrough here: [https://youtu.be/FTnQl9zr-8U](https://youtu.be/FTnQl9zr-8U)
+Watch the walkthrough here: https://drive.google.com/file/d/17tE9LzR9vUP1QQYa_B7fYC0tINCzaq5G/view?usp=sharing
 
 ---
 ## Author
