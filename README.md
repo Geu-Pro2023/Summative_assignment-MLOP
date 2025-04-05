@@ -149,15 +149,20 @@ frontend/build/app/outputs/flutter-apk/app-release.apk # Find the APK here
 **Checksum (SHA-256):**  
 `a1b2c3...` *(replace with your actual checksum)*
 
----
+c
 ## 📱 WildGuard App Screens Interface
 
-<img src="app_screens.png" alt="WildGuard App Screen" width="100%" />
+<p align="center">
+  <img src="app_screens.png" alt="WildGuard App Screen" width="600px">
+</p>
 
 ---
 ## 🎥 Video Presentation
 Watch the walkthrough here: [https://youtu.be/FTnQl9zr-8U](https://youtu.be/FTnQl9zr-8U)
 
+---
 ## 👤 Author
 Built by **Geu Aguto**  
 For an academic assignment involving ML deployment, mobile app integration, and model lifecycle management.
+
+---
