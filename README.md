@@ -152,11 +152,9 @@ frontend/build/app/outputs/flutter-apk/app-release.apk # Find the APK here
 ---
 ## 📱 WildGuard App Screens Interface
 
-<img src="app_screens.png" alt="WildGuard App Screen" width="600" align="left"/>
+<img src="app_screens.png" alt="WildGuard App Screen" width="100%" />
 
-<!-- Force content to drop below the image -->
-<p style="clear: both;"></p>
-
+---
 ## 🎥 Video Presentation
 Watch the walkthrough here: [https://youtu.be/FTnQl9zr-8U](https://youtu.be/FTnQl9zr-8U)
 
