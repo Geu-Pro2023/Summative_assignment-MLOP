@@ -172,7 +172,7 @@ Get APK drive: https://drive.google.com/drive/folders/1SxE4q4SAHQTTMlLRVig3ySnqK
 
 ---
 
-## Usage
+## Usage (Instructions)
 #### 1. Prediction
 ```
 To predict whether an animal is endangered or not:
