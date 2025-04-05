@@ -185,7 +185,7 @@ To predict whether an animal is endangered or not:
    - NON-ENDANGERED
  ```
 #### 2. Retraining the Model
-
+```
 Users can improve the model by retraining it with new data:
 
 1. Navigate to the "Retrain" icon at the bottom of the WildGuard app
@@ -198,9 +198,9 @@ Users can improve the model by retraining it with new data:
    - Number of epochs
 5. Click "Retrain" to begin the retraining process
 6. Once completed, the app will save the retrained model automatically
-
+```
 #### 3. Visualization
-
+```
 After retraining the model:
 
 1. Navigate to the "Visualization" page in the app
@@ -209,7 +209,7 @@ After retraining the model:
    - Loss curves
    - Confusion matrices
 3. The visualizations help understand the model's performance and improvement
-
+```
 ---
 
 ## Video Presentation
