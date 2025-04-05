@@ -2,14 +2,16 @@
 
 ## Overview
 WildGuard is a deep learning model that classifies animal species as ENDANGERED or NON-ENDANGERED based on their images. This project aims to assist conservation efforts by automatically identifying endangered species from camera traps or user-submitted photos.
-
+### Bulk Dataset (1000+ Images)
+Source: https://www.kaggle.com/code/muhammadfaizan65/90-animals-image-classification-efficientnetb3
 
 ##  Features
 ---
 - **Real-time image classification**
 - **Mobile-friendly interface (Flutter)**
 - **Model retraining capability**
-- **Conservation status visualization**
+- **Data live visualization**
+- **Model Image prediction**
 ---
 ## Project Structure
 ```
@@ -80,6 +82,12 @@ flutter run
 - Python 3.9+
 - TensorFlow 2.x
 - OpenCV
+- Flutter
+- Numpy
+- Pandas
+- Matplotlib
+- FastAPI (Backend)
+- Render (Deployment)
 ---
 
 ## Installation
@@ -149,6 +157,10 @@ frontend/build/app/outputs/flutter-apk/app-release.apk # Find the APK here
 **Checksum (SHA-256):**  
 `a1b2c3...` *(replace with your actual checksum)*
 
+### Alternatively: get the APK on drive
+
+drive: https://drive.google.com/drive/folders/1SxE4q4SAHQTTMlLRVig3ySnqKaRW8eiy
+
 ## 📱 WildGuard App Screens Interface
 
 <p align="center">
@@ -156,12 +168,53 @@ frontend/build/app/outputs/flutter-apk/app-release.apk # Find the APK here
 </p>
 
 ---
-## 🎥 Video Presentation
+
+## Usage
+### 1. Prediction
+
+To predict whether an animal is endangered or not:
+
+1. Open the WildGuard app on your mobile device
+2. Upload or capture an image of an animal
+3. Click the "Predict" button
+4. The model will analyze the image and display the prediction as either:
+   - ENDANGERED
+   - NON-ENDANGERED
+ 
+### 2. Retraining the Model
+
+Users can improve the model by retraining it with new data:
+
+1. Navigate to the "Retrain" icon at the bottom of the WildGuard app
+2. Prepare a zip file containing:
+   - Two folders named "Endangered" and "Non-Endangered"
+   - Each folder should contain images of the respective animal class
+3. Upload the zip file through the app interface
+4. Select training parameters:
+   - Batch size
+   - Number of epochs
+5. Click "Retrain" to begin the retraining process
+6. Once completed, the app will save the retrained model automatically
+
+### 3. Visualization
+
+After retraining the model:
+
+1. Navigate to the "Visualization" page in the app
+2. View live training metrics and performance visualizations, including:
+   - Accuracy graphs
+   - Loss curves
+   - Confusion matrices
+3. The visualizations help understand the model's performance and improvement
+
+---
+
+## Video Presentation
 Watch the walkthrough here: [https://youtu.be/FTnQl9zr-8U](https://youtu.be/FTnQl9zr-8U)
 
 ---
-## 👤 Author
-Built by **Geu Aguto**  
+## Author
+**Geu Aguto Garang**  
 For an academic assignment involving ML deployment, mobile app integration, and model lifecycle management.
 
 ---
