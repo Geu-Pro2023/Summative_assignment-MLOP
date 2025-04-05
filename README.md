@@ -150,16 +150,15 @@ frontend/build/app/outputs/flutter-apk/app-release.apk # Find the APK here
 `a1b2c3...` *(replace with your actual checksum)*
 
 ---
-
 ## 📱 WildGuard App Screens Interface
 <img src="app_screens.png" alt="WildGuard App Screen" width="600" align="left"/>
-<br>
 
-## Video Presentation
+<br><br><br><be>
+
+
+## 🎥 Video Presentation
 Watch the walkthrough here: https://youtu.be/FTnQl9zr-8U
 
-## Author
-Built by **Geu Aguto**
+## 👤 Author
+Built by **Geu Aguto**  
 For an academic assignment involving ML deployment, mobile app integration, and model lifecycle management.
-
-
