@@ -3,7 +3,7 @@
 ## Overview
 WildGuard is a deep learning model that classifies animal species as ENDANGERED or NON-ENDANGERED based on their images. This project aims to assist conservation efforts by automatically identifying endangered species from camera traps or user-submitted photos.
 
-### Bulk Dataset (1000+ Images)
+#### Bulk Dataset (1000+ Images)
 Source: https://www.kaggle.com/code/muhammadfaizan65/90-animals-image-classification-efficientnetb3
 
 ---
