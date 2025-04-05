@@ -151,15 +151,8 @@ frontend/build/app/outputs/flutter-apk/app-release.apk # Find the APK here
 
 ---
 
-## 📱 WildGuard App Screens
-
-## 📱 End-to-End Wildlife Conservation Interface
-
-<div align="center">
-  <img src="app_screens.png" alt="WildGuard App Screen" width="600"/>
-  <br>
-  <em>Screenshot from WildGuard v1.0 • Android/iOS • 2024 Release</em>
-</div>
+## 📱 WildGuard App Screens Interface
+<img src="app_screens.png" alt="WildGuard App Screen" width="600" align="left"/>
 
 ## Video Presentation
 Watch the walkthrough here: https://youtu.be/FTnQl9zr-8U
