@@ -132,7 +132,7 @@ frontend/build/app/outputs/flutter-apk/app-release.apk # Find the APK here
 ---
 ### 📥 Download APK (Latest Version)
 
-[![Download APK](https://img.shields.io/badge/Download_WildGuard_APK-v1.0.0-blue?style=for-the-badge&logo=android)](wildGuard.apk)
+[![Download APK](https://img.shields.io/badge/Download_WildGuard_APK-v1.0.0-blue?style=for-the-badge&logo=android)](app-release.apk.sha1)
 
 **Installation Steps:**
 1. Tap the download button above
@@ -149,7 +149,6 @@ frontend/build/app/outputs/flutter-apk/app-release.apk # Find the APK here
 **Checksum (SHA-256):**  
 `a1b2c3...` *(replace with your actual checksum)*
 
-c
 ## 📱 WildGuard App Screens Interface
 
 <p align="center">
