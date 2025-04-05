@@ -164,7 +164,7 @@ frontend/build/app/outputs/flutter-apk/app-release.apk # Find the APK here
 
 Get APK drive: https://drive.google.com/drive/folders/1SxE4q4SAHQTTMlLRVig3ySnqKaRW8eiy
 
-## 📱 WildGuard App Screens Interface
+## App Screens Interface
 
 <p align="center">
   <img src="app_screens.png" alt="WildGuard App Screen" width="600px">
@@ -174,7 +174,7 @@ Get APK drive: https://drive.google.com/drive/folders/1SxE4q4SAHQTTMlLRVig3ySnqK
 
 ## Usage
 #### 1. Prediction
-
+```
 To predict whether an animal is endangered or not:
 
 1. Open the WildGuard app on your mobile device
@@ -183,7 +183,7 @@ To predict whether an animal is endangered or not:
 4. The model will analyze the image and display the prediction as either:
    - ENDANGERED
    - NON-ENDANGERED
- 
+ ```
 #### 2. Retraining the Model
 
 Users can improve the model by retraining it with new data:
