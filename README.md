@@ -153,34 +153,13 @@ frontend/build/app/outputs/flutter-apk/app-release.apk # Find the APK here
 
 ## 📱 WildGuard App Screens
 
-<div align="center">
-  <h3>End-to-End Wildlife Conservation Interface</h3>
-  
-  <table>
-    <tr>
-      <td align="center" style="width:33%">
-        <img src="prediction_screen.png" style="border-radius:10px;width:100%;max-width:300px;height:auto;aspect-ratio:1;object-fit:contain;box-shadow:0 4px 8px rgba(0,0,0,0.1)">
-        <br>
-        <b>① Instant Species Analysis</b>
-      </td>
-      <td align="center" style="width:33%">
-        <img src="retraining_screen.png" style="border-radius:10px;width:100%;max-width:300px;height:auto;aspect-ratio:1;object-fit:contain;box-shadow:0 4px 8px rgba(0,0,0,0.1)">
-        <br>
-        <b>② Model Retraining</b>
-      </td>
-      <td align="center" style="width:33%">
-        <img src="visualization_screen.png" style="border-radius:10px;width:100%;max-width:300px;height:auto;aspect-ratio:1;object-fit:contain;box-shadow:0 4px 8px rgba(0,0,0,0.1)">
-        <br>
-        <b>③ Conservation Analytics</b>
-      </td>
-    </tr>
-  </table>
+## 📱 End-to-End Wildlife Conservation Interface
 
-  <p style="font-style:italic;color:#666;margin-top:10px">
-    Screenshots from WildGuard v1.0 • Android/iOS • 2024 Release
-  </p>
+<div align="center">
+  <img src="app_screens.png" alt="WildGuard App Screen" width="600"/>
+  <br>
+  <em>Screenshot from WildGuard v1.0 • Android/iOS • 2024 Release</em>
 </div>
----
 
 ## Video Presentation
 Watch the walkthrough here: https://youtu.be/FTnQl9zr-8U
